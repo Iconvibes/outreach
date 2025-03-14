@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+    --font-ptSerif: PT Serif, Sans-Serif;
+    --color-navy: rgb(0, 48, 146);
+    --color-blue: rgb(0, 135, 158);
+    --color-orange: rgb(255, 171, 91);
+    --color-orangeShade: rgb(255, 242, 219);
+}
+
